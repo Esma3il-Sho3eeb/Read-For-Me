@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Read For Me</string>
+    <string name="capture_button">Capture Button</string>
+    <string name="captured_image">Capture Image</string>
+    <string name="capture">Capture</string>
+    <string name="brows_file">Brows</string>
+    <string name="read_aloud">read aloud</string>
+    <string name="previous_page">previous page</string>
+    <string name="play_aloud_page">play aloud page</string>
+    <string name="next_page">next page</string>
+</resources>
